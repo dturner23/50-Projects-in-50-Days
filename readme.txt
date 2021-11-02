@@ -1,1 +1,1 @@
-Day 1 of Brad Travery's 50 Projects in 50 Days
+Working through Brad Traversy's 50 Projects in 50 Days
